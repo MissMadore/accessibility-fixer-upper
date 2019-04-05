@@ -12,7 +12,6 @@ html {
 
 a {
   color: #568c36;
-  text-decoration: underline;
 }
 
 a:hover {
@@ -66,6 +65,10 @@ td {
 
 .news {
   background-color: #eeebe9;
+}
+
+.read-more {
+  color: #113c00;
 }
 
 .contact {
